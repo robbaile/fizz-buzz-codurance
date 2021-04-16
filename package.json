@@ -1,0 +1,22 @@
+{
+  "name": "fizz-buzz-codurance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbaile/fizz-buzz-codurance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robbaile/fizz-buzz-codurance/issues"
+  },
+  "homepage": "https://github.com/robbaile/fizz-buzz-codurance#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
